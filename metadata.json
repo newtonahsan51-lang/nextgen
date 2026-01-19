@@ -1,0 +1,5 @@
+{
+  "name": "NextGen Studio - React to Next.js Porter",
+  "description": "A high-performance tool that uses Gemini AI to convert standard React applications into production-ready, SEO-optimized Next.js App Router projects.",
+  "requestFramePermissions": []
+}
